@@ -1,3 +1,6 @@
+# A python program that checks wheter a number provided by a user
+#is even or odd
+
 #defining the function that checks whether a number x is odd or even
 def check_even_odd(x):
     if x % 2 == 0: #is the number even
